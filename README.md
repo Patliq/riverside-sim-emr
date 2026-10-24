@@ -1,6 +1,6 @@
-# Riverside Sim EMR (public demo)
+# Nursivo Institute of Medicine (public demo)
 
-A read-only demo of the Riverside Sim EMR, an Epic-style teaching chart built for nursing student simulation at North-West College Riverside.
+A read-only demo of the Nursivo Institute of Medicine EMR, an Epic-style teaching chart built for nursing student simulation at North-West College Riverside.
 
 Anyone can browse the census and charts and try charting, but nothing is saved. Every change resets when the page is reloaded or closed.
 
