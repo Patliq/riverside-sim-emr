@@ -10,4 +10,4 @@ Reference images carry their own credit lines and licenses (Wikimedia Commons an
 
 ## Copyright
 
-Patient cases, scenarios and this site © 2026 Patrick Liquete. All rights reserved. You may view the demo in a browser. Copying, downloading, modifying or redistributing it, in whole or in part, isn't permitted without written permission. See [LICENSE](LICENSE).
+Patient cases, scenarios and this site © 2026 Kaliq Management LLC. All rights reserved. You may view the demo in a browser. Copying, downloading, modifying or redistributing it, in whole or in part, isn't permitted without written permission. See [LICENSE](LICENSE).
