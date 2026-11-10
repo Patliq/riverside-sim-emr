@@ -2,7 +2,7 @@
 
 A read-only demo of the MedPebble Institute of Medicine EMR, an Epic-style teaching chart built for nursing student simulation at North-West College Riverside.
 
-Anyone can browse the census and charts and try charting, but nothing is saved. Every change resets when the page is reloaded or closed.
+The demo is password protected, so ask your instructor for the password. Once you're in, you can browse the census and charts and try charting, but nothing is saved. Every change resets when the page is reloaded or closed.
 
 All patients are created, fictional cases for nursing education. No real protected health information is stored here, and any resemblance to real people, living or dead, is purely coincidental. Not for clinical use. Patient photos are AI-generated and don't show real people.
 
